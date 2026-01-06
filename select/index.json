@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Factor",
+  "base_artist": "DJ RYOW",
+  "createdAt": "2026-01-06T04:10:35.068662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Evil - M-Factor Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/01_Evil_-_M-Factor_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ex-Factor",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/02_Ex-Factor_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Factor 41",
+      "artist": "Sleeper",
+      "has_synced": false,
+      "path": "select/03_Factor_41_Sleeper.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everybody's Free (To Wear Sunscreen) [Geographic's Factor 15 Plus Mix]",
+      "artist": "Baz Luhrmann",
+      "has_synced": false,
+      "path": "select/04_Everybody's_Free_(To_Wear_Sunscreen)_[Geographic's_Factor_15_Plus_Mix]_Baz_Luhrmann.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Uptown Funk (X Factor Performance)",
+      "artist": "Fleur East",
+      "has_synced": true,
+      "path": "select/05_Uptown_Funk_(X_Factor_Performance)_Fleur_East.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Uptown Funk (Live X Factor Performance)",
+      "artist": "Fleur East",
+      "has_synced": true,
+      "path": "select/06_Uptown_Funk_(Live_X_Factor_Performance)_Fleur_East.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dissolution Factor Red",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/07_Dissolution_Factor_Red_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Human Factor",
+      "artist": "Metal Church",
+      "has_synced": true,
+      "path": "select/08_The_Human_Factor_Metal_Church.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Inevitable Factor (Alternate Vox)",
+      "artist": "Celtic Frost",
+      "has_synced": false,
+      "path": "select/09_The_Inevitable_Factor_(Alternate_Vox)_Celtic_Frost.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chill Factor - 2007 Remaster",
+      "artist": "Pretenders",
+      "has_synced": false,
+      "path": "select/10_Chill_Factor_-_2007_Remaster_Pretenders.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chill Factor (2007 Remastered Version)",
+      "artist": "Pretenders",
+      "has_synced": false,
+      "path": "select/11_Chill_Factor_(2007_Remastered_Version)_Pretenders.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chill Factor - Live",
+      "artist": "Pretenders",
+      "has_synced": false,
+      "path": "select/12_Chill_Factor_-_Live_Pretenders.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wind Chill Factor (Minus Zero)",
+      "artist": "The Boomtown Rats",
+      "has_synced": true,
+      "path": "select/13_Wind_Chill_Factor_(Minus_Zero)_The_Boomtown_Rats.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ex-Factor - A Simple Breakdown",
+      "artist": "Lauryn Hill",
+      "has_synced": false,
+      "path": "select/14_Ex-Factor_-_A_Simple_Breakdown_Lauryn_Hill.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ex-Factor - A Simple Mix",
+      "artist": "Lauryn Hill",
+      "has_synced": false,
+      "path": "select/15_Ex-Factor_-_A_Simple_Mix_Lauryn_Hill.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "People Get Ready (R.H. Factor Reggae Vocal Mix)",
+      "artist": "Ziggy Marley & The Melody Makers",
+      "has_synced": false,
+      "path": "select/16_People_Get_Ready_(R.H._Factor_Reggae_Vocal_Mix)_Ziggy_Marley_&_The_Melody_Makers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Oz Factor (A Cappella)",
+      "artist": "Unwritten Law",
+      "has_synced": false,
+      "path": "select/17_Oz_Factor_(A_Cappella)_Unwritten_Law.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Chill Factor (2007 Remaster)",
+      "artist": "Pretenders",
+      "has_synced": false,
+      "path": "select/18_Chill_Factor_(2007_Remaster)_Pretenders.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Factor (feat. Kaneee & C.O.S.A.)",
+      "artist": "DJ RYOW",
+      "has_synced": false,
+      "path": "select/pl_01_Factor_(feat._Kaneee_&_C.O.S.A.)_DJ_RYOW.txt"
+    }
+  ]
+}
